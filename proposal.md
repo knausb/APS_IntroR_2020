@@ -1,11 +1,13 @@
 > Directions for submitting a proposal are on the [APS site](https://www.apsnet.org/meetings/annual/planthealth2020/program/Pages/default.aspx).
 
-Workshop Title: An Introduction to R for Plant Pathologists
+## Workshop Title:
+An Introduction to R for Plant Pathologists
 
-Brief Description: The statistical programming language and environment R has become an important tool in the analysis of data ad the creation of reproducible research.
+## Brief Description: 
+The statistical programming language and environment R has become an important tool in the analysis of data ad the creation of reproducible research.
 This workshop will help plant pathologists take their first steps in learning R and teach them fundamentals that they can then build on in their own research.
 
-Learning Objectives:
+## Learning Objectives:
 * find, download, and load necessary packages for analysis
 * load tabular data into R
 * understand the basics of data manipulation in R
@@ -14,26 +16,32 @@ Learning Objectives:
 * visualize data
 * troubleshoot commmon problems
 
-Target Audience:
+## Target Audience:
 Individuals who are completely new to R.
 
-Category/Host Type/Pathogen Type (if applicable): Not applicable.
+## Category/Host Type/Pathogen Type (if applicable): 
+Not applicable.
 
-Length of Workshop: half day
+## Length of Workshop:
+half day
 
-A/V Needs: see "Needs for Workshop"
+## A/V Needs:
+see "Needs for Workshop"
 
-Attendee Estimate: 30 individuals
+## Attendee Estimate:
+30 individuals
 
-Needs for Workshop:
+## Needs for Workshop:
 * LCD Projector/Screen
 * Wireless Microphone
 * Internet
 * Coffee Break
 * Electrical Outlets for Attendees
 
-Subject Matter Committee (if applicable)
+## [Subject Matter Committee](https://www.apsnet.org/members/leadership/apsleadership/Pages/default.aspx) (if applicable):
+Evolutionary Genetics and Genomics 
 
 
-Outside Funding (if applicable): not applicable.
+## Outside Funding (if applicable): 
+not applicable.
 
