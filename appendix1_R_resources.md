@@ -27,4 +27,4 @@ For example, the account @RLangTip will send you one tip per day on how to use R
 [What is Git and GitHub](https://youtu.be/uUuTYDg9XoI)    
 [A beginer's guide to the data science pipeline](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)    
 [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)    
-
+[tidyexplain](https://github.com/gadenbuie/tidyexplain#spread-and-gather)
