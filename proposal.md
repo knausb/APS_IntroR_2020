@@ -23,18 +23,17 @@ Individuals who are completely new to R.
 Not applicable.
 
 ## Length of Workshop:
-half day
+4-hour half-day
 
 ## A/V Needs:
 see "Needs for Workshop"
 
 ## Attendee Estimate:
-30 individuals
+50 - 65 individuals
 
 ## Needs for Workshop:
 * LCD Projector/Screen
 * Wireless Microphone
-* Internet
 * Coffee Break
 * Electrical Outlets for Attendees
 
