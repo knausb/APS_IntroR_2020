@@ -12,6 +12,7 @@ For example, the account @RLangTip will send you one tip per day on how to use R
 ## Links to other R resources
 
 (In no particular order.)    
+[remaster-the-tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse)    
 [R for data science](https://r4ds.had.co.nz/)    
 [Teacups, giraffes and statistics](https://github.com/tinystats/teacups-giraffes-and-statistics)    
 [learnr](https://rstudio.github.io/learnr/)    
