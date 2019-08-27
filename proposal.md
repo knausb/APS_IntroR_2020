@@ -1,4 +1,6 @@
 > Directions for submitting a proposal are on the [APS site](https://www.apsnet.org/meetings/annual/planthealth2020/program/Pages/default.aspx).
+Note that the linked site appears to have links to submit "sessions" and "workshops".
+When you click on the workshop link it then calls it a session.
 
 ## Workshop Title:
 An Introduction to R for Plant Pathologists
