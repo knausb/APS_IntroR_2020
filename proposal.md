@@ -19,7 +19,7 @@ This workshop will help plant pathologists take their first steps in learning R 
 * know what a data frame, vector, and function are
 * summarize data
 * visualize data
-* troubleshoot commmon problems
+* troubleshoot common problems
 
 ## Target Audience:
 Individuals who are completely new to R.
