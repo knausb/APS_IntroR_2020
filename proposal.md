@@ -39,11 +39,13 @@ Not applicable.
 
 ## A/V Needs:
 see "Needs for Workshop"
+See "Indicate all the items you anticipate needing for the workshop:".
 
 ## Attendee Estimate:
 50 - 65 individuals
 
 ## Needs for Workshop:
+## Indicate all the items you anticipate needing for the workshop:
 * LCD Projector/Screen
 * Wireless Microphone
 * Coffee Break
