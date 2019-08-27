@@ -26,7 +26,8 @@ Individuals who are completely new to R.
 
 
 ## Promotion
-> What statements would you use to promote this workshop to your target audience?
+> What statements would you use to promote this workshop to your target audience?    
+
 Been meaning to learn R but just haven't found the time? 
 Come with us and get your R learning experience off the ground.
 
