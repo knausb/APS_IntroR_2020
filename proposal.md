@@ -24,6 +24,12 @@ This workshop will help plant pathologists take their first steps in learning R 
 ## Target Audience:
 Individuals who are completely new to R.
 
+
+## Promotion
+> What statements would you use to promote this workshop to your target audience?
+Been meaning to learn R but just haven't found the time? 
+Come with us and get your R learning experience off the ground.
+
 ## Category/Host Type/Pathogen Type (if applicable): 
 Not applicable.
 
