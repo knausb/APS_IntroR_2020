@@ -38,7 +38,7 @@ Not applicable.
 4-hour half-day
 
 ## A/V Needs:
-see "Needs for Workshop"
+see "Needs for Workshop"    
 See "Indicate all the items you anticipate needing for the workshop:".
 
 ## Attendee Estimate:
