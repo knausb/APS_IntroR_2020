@@ -7,6 +7,11 @@ An Introduction to R for Plant Pathologists
 The statistical programming language and environment R has become an important tool in the analysis of data ad the creation of reproducible research.
 This workshop will help plant pathologists take their first steps in learning R and teach them fundamentals that they can then build on in their own research.
 
+
+## Plant Health 2020 Theme
+> The theme for Plant Health 2020 is "Scientific Credibility – Changing the Climate." If your submission supports or ties into this theme, please describe below. (This is not a requirement for submission acceptance.)
+
+
 ## Learning Objectives:
 * find, download, and load necessary packages for analysis
 * load tabular data into R
