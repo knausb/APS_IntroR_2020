@@ -1,8 +1,37 @@
 ---
-title: "Introductory R for Plant Pathologists"
+title: "About Introductory R for Plant Pathologists"
 ---
 
+## Course goals
+
+The statistical programming language and environment R has become an important tool in the analysis of data ad the creation of reproducible research.
+This workshop will help plant pathologists take their first steps in learning R and teach them fundamentals that they can then build on in their own research.
 
 
-## Getting started
+## Prerequisits
+
+This workshop requires no previous experience with R.
+It is expected that you have installed R and RStudio on your computer prior to the workshop.
+
+Instructions on how to [download and install R](https://cran.r-project.org/) at CRAN.
+
+Instructions on how to [download and install RStudio](https://rstudio.com/products/rstudio/download/).
+Select the free RStudio Desktop version.
+
+
+## Learning Objectives:
+
+* find, download, and load necessary packages for analysis
+* load tabular data into R
+* understand the basics of data manipulation in R
+* know what a data frame, vector, and function are
+* summarize data
+* visualize data
+* troubleshoot common problems
+
+
+## Previous workshops
+
+This workshop is a continuation of [previous workshops](https://github.com/everhartlab/APS_IntroR_2019) such as the 2019 APS workshop on introductory R written by Dr. Sydney E. Everhart, Nikita Gambhir, Dr. Kaitlin Gold, Dr. Lucky Mehra, and Dr. Zhian N. Kamvar.
+
 
