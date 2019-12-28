@@ -35,3 +35,7 @@ Select the free RStudio Desktop version.
 This workshop is a continuation of [previous workshops](https://github.com/everhartlab/APS_IntroR_2019) such as the 2019 APS workshop on introductory R written by Dr. Sydney E. Everhart, Nikita Gambhir, Dr. Kaitlin Gold, Dr. Lucky Mehra, and Dr. Zhian N. Kamvar.
 
 
+## How did we make this?
+
+This site is hosted on GitHub and was created using RMarkdown.
+The files used to create the site are available at the [APS_IntroR_2020 site](https://github.com/knausb/APS_IntroR_2020).
