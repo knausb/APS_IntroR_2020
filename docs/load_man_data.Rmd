@@ -1,0 +1,7 @@
+---
+title: "Loading and manipulating data in R"
+---
+
+## This page is present
+
+Lorem ipsum

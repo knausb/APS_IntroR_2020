@@ -8,5 +8,14 @@ output:
       before_body: header.html
       after_body: footer.html
     css: styles.css
-    
-    
+navbar:
+  title: "Intro R"
+  left:
+    - text: "First Steps in R"
+      href: first_steps_R.html
+    - text: "Loading and Manipulating Data in R"
+      href: load_man_data.html
+    - text: "Summarizing and Visualizing Data in R"
+      href: sum_vis.html
+    - text: "Troubleshooting Issues in R"
+      href: troubleshooting.html

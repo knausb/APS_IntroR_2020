@@ -1,0 +1,7 @@
+---
+title: "Summarizing and Visualizing Data"
+---
+
+## This page is present
+
+Lorem ipsum
