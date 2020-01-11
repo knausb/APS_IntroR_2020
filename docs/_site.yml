@@ -2,7 +2,7 @@ name: "APS_IntroR"
 output_dir: "."
 output:
   html_document:
-    theme: sandstone
+    theme: paper
     highlight: textmate
     include:
       before_body: header.html
