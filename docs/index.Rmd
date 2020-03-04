@@ -18,6 +18,12 @@ Instructions on how to [download and install R](https://cran.r-project.org/) at 
 Instructions on how to [download and install RStudio](https://rstudio.com/products/rstudio/download/).
 Select the free RStudio Desktop version.
 
+You will also need to install a few packages to add more functionality to R.
+Please copy and paste the below command into your R console.
+
+```
+install.packages(c("dplyr", "ggplot2", "praise", "plotrix"), repos = "https://cran.rstudio.com")
+```
 
 ## Learning Objectives:
 
